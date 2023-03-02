@@ -31,16 +31,19 @@ export default async function handler(
 
   res.status(200).json([
     {
+        id: 1,
         nome: 'Bermuda Adidas Masculina',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/bermuda.webp',
         preco: 129.9
     },
     {
+        id: 2,
         nome: 'Camisa Corinthians 1 - 22/23',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/corinthians.webp',
         preco: 249.9
     },
     {
+        id: 3,
         nome: 'Bola de Vôlei Penalty',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/bola.webp',
         preco: 139.9
@@ -51,21 +54,25 @@ export default async function handler(
         preco: 249.9
     },
     {
+        id: 4,
         nome: 'Patins Preto',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/patins.webp',
         preco: 399.9
     },
     {
+        id: 5, 
         nome: 'Camisa Kansas City Chiefs',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/kansas.webp',
         preco: 379.9
     },
     {
+        id: 6,
         nome: 'Camisa Real Madrid 1 - 22/23',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/real_madrid.webp',
         preco: 349.9
     },
     {
+        id: 7,
         nome: 'Camisa Milan 1 - 22/23',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/milan.webp',
         preco: 349.9
