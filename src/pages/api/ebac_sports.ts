@@ -62,7 +62,7 @@ export default async function handler(
     {
         id: 5, 
         nome: 'Camisa Kansas City Chiefs',
-        imagem: 'https://fake-api-tau.vercel.app/ebac_sports/kansas.webp',
+        imagem: 'https://fake-api-tau.vercel.app/ebac_sports/camisa_kansas.webp',
         preco: 379.9
     },
     {
