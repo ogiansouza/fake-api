@@ -8,9 +8,9 @@ export const jogos = [
       "O FIFA 23 é o mais recente lançamento da renomada série de jogos de futebol da EA Sports. Com gráficos impressionantes e realismo aprimorado, este título leva a experiência do futebol virtual a novos patamares. Desfrute de uma jogabilidade refinada e controles mais precisos enquanto controla suas equipes favoritas em competições emocionantes em todo o mundo.        ",
     release_date: null,
     prices: {
-      discount: 50,
-      old: 199.8,
-      current: 99.9,
+      discount: null,
+      old: null,
+      current: 199.9,
     },
     details: {
       category: "Esporte",
@@ -102,9 +102,9 @@ export const jogos = [
       "Call of Duty: Vanguard traz a ação intensa da franquia de volta à Segunda Guerra Mundial. Experimente uma campanha envolvente e lute em batalhas icônicas enquanto descobre uma conspiração global.",
     release_date: null,
     prices: {
-      discount: 20,
-      old: 229.9,
-      current: 183.9,
+      discount: null,
+      old: null,
+      current: 229.9,
     },
     details: {
       category: "Ação",
@@ -147,9 +147,9 @@ export const jogos = [
       "Elden Ring é um RPG de ação desenvolvido pela FromSoftware e publicado pela Bandai Namco Entertainment. Com um mundo aberto vasto e rica narrativa, os jogadores devem enfrentar inimigos desafiadores e explorar um ambiente repleto de segredos e mistérios.",
     release_date: null,
     prices: {
-      discount: 10,
-      old: 249.9,
-      current: 224.9,
+      discount: null,
+      old: null,
+      current: 249.9,
     },
     details: {
       category: "RPG",
