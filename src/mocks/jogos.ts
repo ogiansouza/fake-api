@@ -682,20 +682,20 @@ export const jogos = [
       "languages": ["Inglês", "Espanhol", "Francês", "Holandês", "Italiano", "Português brasileiro", "Português", "Russo", "Árabe"]
     },
     "media": {
-      "thumbnail": "/star_wars/thumb.jpeg",
-      "cover": "/star_wars/capa.png",
+      "thumbnail": mediaPath + "/star_wars/thumb.jpeg",
+      "cover": mediaPath + "/star_wars/capa.png",
       "gallery": [
         {
           "type": "image",
-          "url": "/star_wars/imagem1.jpg"
+          "url": mediaPath + "/star_wars/imagem1.jpg"
         },
         {
           "type": "image",
-          "url": "/star_wars/imagem2.jpg"
+          "url": mediaPath + "/star_wars/imagem2.jpg"
         },
         {
           "type": "image",
-          "url": "/star_wars/imagem3.webp"
+          "url": mediaPath + "/star_wars/imagem3.webp"
         },
       ]
     }
