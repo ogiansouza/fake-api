@@ -231,9 +231,9 @@ export const jogos = [
       "Doom Eternal é um jogo de tiro em primeira pessoa desenvolvido pela id Software. Enfrente hordas de demônios em uma campanha intensa e brutal, utilizando um arsenal de armas poderosas e habilidades incríveis para salvar a humanidade.",
     release_date: null,
     prices: {
-      discount: 30,
-      old: 169.9,
-      current: 118.9,
+      discount: null,
+      old: null,
+      current: 119.9,
     },
     details: {
       category: "Ação",
@@ -534,9 +534,9 @@ export const jogos = [
     "description": "Cities: Skylines é um jogo de construção e gerenciamento de cidades desenvolvido pela Colossal Order e publicado pela Paradox Interactive. Com um alto nível de detalhes e complexidade, os jogadores podem planejar, construir e gerenciar sua própria cidade, tomando decisões sobre zoneamento, transporte, políticas públicas e muito mais.",
     "release_date": null,
     "prices": {
-      "discount": 50,
-      "old": 119.9,
-      "current": 59.9
+      "discount": null,
+      "old": null,
+      "current": 119.9
     },
     "details": {
       "category": "Simulação",
