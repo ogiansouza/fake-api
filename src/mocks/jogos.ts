@@ -107,7 +107,7 @@ export const jogos = [
       current: 183.9,
     },
     details: {
-      category: "FPS",
+      category: "Ação",
       system: "PS5",
       developer: "Sledgehammer Games",
       publisher: "Activision",
@@ -197,7 +197,7 @@ export const jogos = [
       current: 169.9,
     },
     details: {
-      category: "FPS",
+      category: "Ação",
       system: "PS5",
       developer: "Blizzard Entertainment",
       publisher: "Blizzard Entertainment",
@@ -236,7 +236,7 @@ export const jogos = [
       current: 118.9,
     },
     details: {
-      category: "FPS",
+      category: "Ação",
       system: "PS4",
       developer: "id Software",
       publisher: "Bethesda Softworks",
@@ -277,7 +277,7 @@ export const jogos = [
       current: 59.9,
     },
     details: {
-      category: "FPS",
+      category: "Ação",
       system: "Steam",
       developer: "Respawn Entertainment",
       publisher: "Electronic Arts",
@@ -611,7 +611,7 @@ export const jogos = [
       "current": null
     },
     "details": {
-      "category": "Acao",
+      "category": "Ação",
       "system": "PS5",
       "developer": "Rocksteady Studios",
       "publisher": "Warner Bros. Interactive Entertainment",
@@ -643,7 +643,7 @@ export const jogos = [
       "current": null
     },
     "details": {
-      "category": "Ação e Aventura",
+      "category": "Ação",
       "system": "PS5",
       "developer": "Insomniac Games",
       "publisher": "Sony Interactive Entertainment",
@@ -675,7 +675,7 @@ export const jogos = [
       "current": null
     },
     "details": {
-      "category": "Ação e Aventura",
+      "category": "RPG",
       "system": "Xbox Series S/X",
       "developer": "Lucasfilm Games",
       "publisher": "Electronic Arts",
@@ -703,10 +703,10 @@ export const jogos = [
 ]
 
 export const embreve = jogos.filter(x => x.release_date)
-export const esportes = jogos.filter(x => x.details.category === 'Esporte')
-export const fps = jogos.filter(x => x.details.category === 'FPS')
-export const luta = jogos.filter(x => x.details.category === 'Luta')
 export const promocoes = jogos.filter(x => x.prices.discount)
+export const esportes = jogos.filter(x => x.details.category === 'Esporte')
+export const acao = jogos.filter(x => x.details.category === 'Ação')
+export const luta = jogos.filter(x => x.details.category === 'Luta')
 export const rpg = jogos.filter(x => x.details.category === 'RPG')
 export const simulacao = jogos.filter(x => x.details.category === 'Simulação')
 

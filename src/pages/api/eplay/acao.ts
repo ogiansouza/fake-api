@@ -1,4 +1,4 @@
-import { fps } from '@/mocks/jogos'
+import { acao } from '@/mocks/jogos'
 
 import type { NextApiRequest, NextApiResponse } from 'next'
 import Cors from 'cors'
@@ -29,5 +29,5 @@ export default async function handler(
 ) {
   await runMiddleware(req, res, cors)
 
-  res.status(200).json(fps)
+  res.status(200).json(acao)
 }
