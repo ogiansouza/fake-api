@@ -39,7 +39,7 @@ export const jogos = [
         },
         {
           type: "image",
-          url: mediaPath + "/fifa_23/imagem2.jpg",
+          url: mediaPath + "/fifa_23/imagem2.jpeg",
         },
         {
           type: "video",
@@ -131,7 +131,7 @@ export const jogos = [
         },
         {
           type: "image",
-          url: mediaPath + "/cod/imagem2.jpeg",
+          url: mediaPath + "/cod/imagem2.jpg",
         },
         {
           type: "video",
@@ -331,7 +331,7 @@ export const jogos = [
         },
         {
           type: 'image',
-          url: mediaPath + '/tekken/imagem2.png',
+          url: mediaPath + '/tekken/imagem2.jpg',
         },
       ]
     },
