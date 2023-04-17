@@ -43,7 +43,7 @@ export const jogos = [
         },
         {
           type: "video",
-          url: "https://www.youtube.com/watch?v=0tIW1X2dv0c",
+          url: "https://www.youtube.com/embed/0tIW1X2dv0c",
         },
       ],
     },
@@ -90,7 +90,7 @@ export const jogos = [
         },
         {
           type: "video",
-          url: "https://www.youtube.com/watch?v=RxLS5Tgo9YM",
+          url: "https://www.youtube.com/embed/RxLS5Tgo9YM",
         },
       ],
     },
@@ -135,7 +135,7 @@ export const jogos = [
         },
         {
           type: "video",
-          url: "https://www.youtube.com/watch?v=OQ1CwPhE8KQ",
+          url: "https://www.youtube.com/embed/OQ1CwPhE8KQ",
         },
       ],
     },
@@ -180,7 +180,7 @@ export const jogos = [
         },
         {
           type: "video",
-          url: "https://www.youtube.com/watch?v=e5wwSxl0atc",
+          url: "https://www.youtube.com/embed/e5wwSxl0atc",
         },
       ],
     },
@@ -260,7 +260,7 @@ export const jogos = [
         },
         {
           type: "video",
-          url: "https://www.youtube.com/watch?v=FkklG9MA0vM",
+          url: "https://www.youtube.com/embed/FkklG9MA0vM",
         },
       ],
     },
@@ -395,7 +395,7 @@ export const jogos = [
         },
         {
           type: 'video',
-          url: 'https://www.youtube.com/watch?v=0nFd7Iylj5A',
+          url: 'https://www.youtube.com/embed/0nFd7Iylj5A',
         },
       ]
     },
@@ -595,7 +595,7 @@ export const jogos = [
         },
         {
           "type": "video",
-          "url": "https://www.youtube.com/watch?v=uHGShqcAHlQ"
+          "url": "https://www.youtube.com/embed/uHGShqcAHlQ"
         }
       ]
     }
