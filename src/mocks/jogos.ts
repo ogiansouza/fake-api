@@ -82,11 +82,11 @@ export const jogos = [
       gallery: [
         {
           type: "image",
-          url: mediaPath + "/nba/imagem1.jpg",
+          url: mediaPath + "/nba/imagem1.webp",
         },
         {
           type: "image",
-          url: mediaPath + "/nba/imagem2.jpg",
+          url: mediaPath + "/nba/imagem2.webp",
         },
         {
           type: "video",
