@@ -30,7 +30,7 @@ export const jogos = [
       ],
     },
     media: {
-      thumbnail: mediaPath + "/fifa_23/thumb.jpg",
+      thumbnail: mediaPath + "/fifa_23/thumb.jpeg",
       cover: mediaPath + "/fifa_23/capa.jpg",
       gallery: [
         {
@@ -122,7 +122,7 @@ export const jogos = [
       ],
     },
     media: {
-      thumbnail: mediaPath + "/cod/thumb.jpg",
+      thumbnail: mediaPath + "/cod/thumb.jpeg",
       cover: mediaPath + "/cod/capa.jpg",
       gallery: [
         {
