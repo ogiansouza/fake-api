@@ -78,7 +78,7 @@ export const jogos = [
     },
     media: {
       thumbnail: mediaPath + "/nba/thumb.jpeg",
-      cover: mediaPath + "/nba/capa.jpg",
+      cover: mediaPath + "/nba/capa.webp",
       gallery: [
         {
           type: "image",
