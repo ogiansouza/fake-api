@@ -35,6 +35,8 @@ export default async function handler(
   if (jogo) {
     res.status(200).json(jogo)
   } else {
-    res.status(404);
+    res.status(404).json({
+      message: "Item não encontrado"
+    })
   }
 }
