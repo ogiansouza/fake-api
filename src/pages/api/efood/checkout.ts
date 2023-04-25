@@ -81,7 +81,7 @@ export default async function handler(
 
   if (req.method === 'GET') {
     res.status(200).json({
-      payload,
+      ...payload,
     })
   } else if (req.method === 'POST') {
     if (validate(req.body, res)) {
