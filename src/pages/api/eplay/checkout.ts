@@ -55,7 +55,7 @@ export default async function handler(
         price: 0,
       }
     ],
-    shipping: {
+    billing: {
       name: "string",
       email: "string",
       document: "string",
