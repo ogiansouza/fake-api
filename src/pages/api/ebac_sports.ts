@@ -49,30 +49,31 @@ export default async function handler(
         preco: 139.9
     },
     {
+        id: 4,
         nome: 'Camisa Internacional 2 - 22/23',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/internacional.webp',
         preco: 249.9
     },
     {
-        id: 4,
+        id: 5,
         nome: 'Patins Preto',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/patins.webp',
         preco: 399.9
     },
     {
-        id: 5, 
+        id: 6, 
         nome: 'Camisa Kansas City Chiefs',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/camisa_kansas.webp',
         preco: 379.9
     },
     {
-        id: 6,
+        id: 7,
         nome: 'Camisa Real Madrid 1 - 22/23',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/real_madrid.webp',
         preco: 349.9
     },
     {
-        id: 7,
+        id: 8,
         nome: 'Camisa Milan 1 - 22/23',
         imagem: 'https://fake-api-tau.vercel.app/ebac_sports/milan.webp',
         preco: 349.9
