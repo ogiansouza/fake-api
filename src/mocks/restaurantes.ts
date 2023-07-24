@@ -146,7 +146,7 @@ const items = [
         porcao: "1 a 2 pessoas",
       },
       {
-        foto: mediaPath + 'sakura_sushi_house/' + '/3.webp',
+        foto: mediaPath + 'sakura_sushi_house/' + '/3.jpg',
         preco: 69.9,
         id: 13,
         nome: "Teishoku de Tonkatsu",
